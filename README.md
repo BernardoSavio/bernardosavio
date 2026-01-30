@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Bernardo Sávio
 
-My name is Bernardo, and I'm a I.T. Technician deeply interested in compared languages (be they human or programming ones) and Software Development.
+I'm an I.T. Technician deeply interested in compared languages (be they human or programming ones) and Software Development.
 
 - 🔭 I’m recently studying human and programming languages family trees looking for similarities that might help me to learn the maximum amount of languages of interest I possibly can.
 - 🤝 I'm also currently looking for opportunities of entry-level development jobs. 
