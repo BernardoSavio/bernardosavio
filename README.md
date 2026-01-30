@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Bernardo, and I'm a self-taught Developer interested in compared studies of human and programming languages.
+My name is Bernardo, and I'm a I.T. Technician interested in the comparative study languages (be they human or programming languages) and Software Development.
 
 - 🔭 I’m recently studying human and programming languages family trees looking for similarities that might help me to learn the maximum amount of languages of interest I possibly can.
 - 🤝 I'm also currently looking for opportunities of entry-level development jobs. 
