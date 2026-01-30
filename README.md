@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Bernardo, and I'm a self-taught Developer interested in compared studies of human and programming languages.
+
+- 🔭 I’m recently studying human and programming languages family trees looking for similarities that might help me to learn the maximum amount of languages of interest I possibly can.
+- 🤝 I'm currently looking for opportunities of entry-level development jobs. 
+- 📫 Feel free to send me an e-mail at bernardosmdfernandez@gmail.com
+
 <!--
 **BernardoSavio/bernardosavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
