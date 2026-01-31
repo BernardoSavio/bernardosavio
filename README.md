@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Bernardo Sávio
 
-I'm an I.T. Technician deeply interested in compared languages (be they human or programming ones) and Software Development.
+I'm an I.T. Technician deeply interested in teh study of languages (specially romance and antique ones) and Software Development.
 
-- 🔭 I’m recently studying human and programming languages family trees looking for similarities that might help me to learn the maximum amount of languages of interest I possibly can.
+- 🔭 I’m on my way to become a Java Full-Stack Jr. Developer.
 - 🤝 I'm also currently looking for opportunities of entry-level development jobs. 
 - 📫 Feel free to send me an e-mail at bernardosmdfernandez@gmail.com
 
